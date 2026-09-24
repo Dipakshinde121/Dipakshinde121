@@ -19,33 +19,34 @@
 
 ## `> whoami`
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  Dipak Shinde                                                 │
-│  ───────────────────────────────────────────────────────────  │
-│  🎓 B.Tech Cybersecurity, TKIET Warananagar — Class of 2028   │
-│  🛡️  Cybersecurity • Web Security • AI Security               │
-│  🐍 Python • Flask • TypeScript • SQL • Bash                  │
-│  🌐 Networking • Linux • Zero Trust • Access Control          │
-│  📍 Kolhapur, Maharashtra, India                               │
-│                                                                │
-│  Mission: build practical security tools, then try to break   │
-│  them myself before anyone else does.                         │
-└──────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td width="140" align="center">
+<img src="https://avatars.githubusercontent.com/u/184541621?v=4" width="110" style="border-radius:50%;border:2px solid #38BDF8"/>
+</td>
+<td>
+
+**Dipak Shinde** — B.Tech Cybersecurity Student
+
+![Education](https://img.shields.io/badge/🎓_Education-TKIET_Warananagar-38BDF8?style=for-the-badge&labelColor=111827)
+![Location](https://img.shields.io/badge/📍_Location-Kolhapur%2C_India-38BDF8?style=for-the-badge&labelColor=111827)
+![Graduating](https://img.shields.io/badge/🎯_Graduating-2028-38BDF8?style=for-the-badge&labelColor=111827)
+![Focus](https://img.shields.io/badge/🛡️_Focus-Cybersecurity_%26_AI_Security-38BDF8?style=for-the-badge&labelColor=111827)
+
+*Mission: build practical security tools, then try to break them myself before anyone else does.*
+
+</td>
+</tr>
+</table>
 
 ## `> ./current_focus.sh`
 
-```bash
-┌──[dipak@cyberlab]─[~/security]
-└─$ cat current_focus.txt
-
-[+] AI-assisted Web Application Firewall  (CyberShield-AI-WAF)
-[+] Zero Trust security hardening         (ZTNA-Shield)
-[+] Face-Verified Access Lock System      (final year project)
-[+] Vulnerability assessment & secure API design
-[+] Python security automation + Linux tooling
-```
+| Project | Status | Stack |
+|---|---|---|
+| 🛡️ CyberShield-AI-WAF | ![Active](https://img.shields.io/badge/Active-38BDF8?style=flat-square&labelColor=111827) | Python · ML |
+| 🔐 ZTNA-Shield | ![Auditing](https://img.shields.io/badge/Auditing-38BDF8?style=flat-square&labelColor=111827) | TypeScript · React · Node |
+| 👤 Face-Verified Access Lock | ![Hardening](https://img.shields.io/badge/Hardening-38BDF8?style=flat-square&labelColor=111827) | Python · OpenCV |
+| 🔍 Vulnerability Assessment & Secure API Design | ![Ongoing](https://img.shields.io/badge/Ongoing-38BDF8?style=flat-square&labelColor=111827) | Various |
 
 ---
 
@@ -177,43 +178,42 @@
 
 ## `> security_mindset`
 
-```text
-01  ── Secure by Design
-02  ── Least Privilege
-03  ── Defense in Depth
-04  ── Continuous Learning
-05  ── Build → Test → Break → Secure → Repeat
-```
+<div align="center">
 
-> I like understanding how systems work, finding where they can fail, and then building better defenses.
+![01](https://img.shields.io/badge/01-Secure_by_Design-38BDF8?style=for-the-badge&labelColor=111827)
+![02](https://img.shields.io/badge/02-Least_Privilege-38BDF8?style=for-the-badge&labelColor=111827)
+![03](https://img.shields.io/badge/03-Defense_in_Depth-38BDF8?style=for-the-badge&labelColor=111827)
+![04](https://img.shields.io/badge/04-Continuous_Learning-38BDF8?style=for-the-badge&labelColor=111827)
+
+**Build → Test → Break → Secure → Repeat**
+
+*I like understanding how systems work, finding where they can fail, and then building better defenses.*
+
+</div>
 
 ---
 
 ## `> learning_path`
 
-```text
-Web Security
-     │
-     ├── OWASP concepts
-     ├── Secure APIs
-     ├── Authentication & Authorization
-     └── Vulnerability Assessment
-             │
-             ▼
-Network Security
-     │
-     ├── TCP/IP
-     ├── DNS
-     ├── Firewalls
-     ├── VPN
-     └── Traffic Analysis
-             │
-             ▼
-AI + Cybersecurity
-     │
-     ├── Anomaly Detection
-     ├── Intelligent Security Tools
-     └── AI-assisted Defense
+```mermaid
+graph TD
+    classDef stage fill:#0f172a,stroke:#38BDF8,stroke-width:2px,color:#ffffff
+    classDef leaf fill:#111827,stroke:#38BDF8,stroke-width:1px,color:#CBD5E1
+
+    A[🌐 Web Security]:::stage --> A1[OWASP concepts]:::leaf
+    A --> A2[Secure APIs]:::leaf
+    A --> A3[Authentication & Authorization]:::leaf
+    A --> A4[Vulnerability Assessment]:::leaf
+    A --> B[🔒 Network Security]:::stage
+    B --> B1[TCP/IP]:::leaf
+    B --> B2[DNS]:::leaf
+    B --> B3[Firewalls]:::leaf
+    B --> B4[VPN]:::leaf
+    B --> B5[Traffic Analysis]:::leaf
+    B --> C[🤖 AI + Cybersecurity]:::stage
+    C --> C1[Anomaly Detection]:::leaf
+    C --> C2[Intelligent Security Tools]:::leaf
+    C --> C3[AI-assisted Defense]:::leaf
 ```
 
 ---
