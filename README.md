@@ -22,7 +22,7 @@
 <table>
 <tr>
 <td width="140" align="center">
-<img src="https://avatars.githubusercontent.com/u/184541621?v=4" width="110" style="border-radius:50%;border:2px solid #38BDF8"/>
+<img src="https://raw.githubusercontent.com/Dipakshinde121/Dipakshinde121/main/dipak.jpg" width="110" height="110" style="border-radius:50%;border:2px solid #38BDF8;object-fit:cover;object-position:50% 70%"/>
 </td>
 <td>
 
