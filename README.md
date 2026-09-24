@@ -22,7 +22,7 @@
 <table>
 <tr>
 <td width="140" align="center">
-<img src="[https://avatars.githubusercontent.com/u/184541621?v=4](https://www.instagram.com/p/Db210OfiTM8/?img_index=3)" width="110" style="border-radius:50%;border:2px solid #38BDF8"/>
+<img src="https://www.instagram.com/p/Db210OfiTM8/?img_index=3" width="110" style="border-radius:50%;border:2px solid #38BDF8"/>
 </td>
 <td>
 
