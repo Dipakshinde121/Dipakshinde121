@@ -4,13 +4,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:0ea5e9&height=210&section=header&text=DIPAK%20SHINDE&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20Security%20%7C%20Python%20%7C%20Web%20Security&descAlignY=60&descSize=18" width="100%"/>
 
 <a href="https://github.com/Dipakshinde121">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Cybersecurity+Student+%7C+Security+Builder;Building+secure+web+applications+and+AI-powered+defense;Python+%7C+Linux+%7C+Networking+%7C+Web+Security;Turning+security+ideas+into+working+projects+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=B.Tech+Cybersecurity+Student+at+TKIET;Building+CyberShield-AI-WAF+-+ML+based+WAF;Hardening+ZTNA-Shield+-+Zero+Trust+Access;Securing+systems+one+commit+at+a+time+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Dipakshinde121-111827?style=for-the-badge&logo=github)](https://github.com/Dipakshinde121)
 [![Profile Views](https://komarev.com/ghpvc/?username=Dipakshinde121&style=for-the-badge&color=0ea5e9)](https://github.com/Dipakshinde121)
+[![Followers](https://img.shields.io/github/followers/Dipakshinde121?style=for-the-badge&color=0ea5e9&labelColor=111827)](https://github.com/Dipakshinde121?tab=followers)
 
 </div>
 
@@ -22,14 +23,14 @@
 ┌──────────────────────────────────────────────────────────────┐
 │  Dipak Shinde                                                 │
 │  ───────────────────────────────────────────────────────────  │
-│  🎓 B.Tech Cybersecurity Student                             │
-│  🛡️  Cybersecurity • Web Security • AI Security              │
-│  🐍 Python • Flask • SQL • Bash                              │
-│  🌐 Networking • Linux • Security Testing                    │
-│  🔎 Learning by building real security projects              │
-│                                                              │
-│  Mission: Build practical technology with security at its     │
-│  core — not as an afterthought.                              │
+│  🎓 B.Tech Cybersecurity, TKIET Warananagar — Class of 2028   │
+│  🛡️  Cybersecurity • Web Security • AI Security               │
+│  🐍 Python • Flask • TypeScript • SQL • Bash                  │
+│  🌐 Networking • Linux • Zero Trust • Access Control          │
+│  📍 Kolhapur, Maharashtra, India                               │
+│                                                                │
+│  Mission: build practical security tools, then try to break   │
+│  them myself before anyone else does.                         │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -39,13 +40,11 @@
 ┌──[dipak@cyberlab]─[~/security]
 └─$ cat current_focus.txt
 
-[+] Web Application Security
-[+] AI-assisted Cybersecurity
-[+] Network Security
-[+] Vulnerability Assessment
-[+] Secure API Development
-[+] Python Security Automation
-[+] Linux & Security Tooling
+[+] AI-assisted Web Application Firewall  (CyberShield-AI-WAF)
+[+] Zero Trust security hardening         (ZTNA-Shield)
+[+] Face-Verified Access Lock System      (final year project)
+[+] Vulnerability assessment & secure API design
+[+] Python security automation + Linux tooling
 ```
 
 ---
@@ -66,6 +65,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
@@ -82,27 +82,49 @@
 
 ## `> featured_projects`
 
-### 🛡️ CyberShield-AI-WAF
-**AI-powered Web Application Firewall concept for detecting and responding to suspicious web traffic.**
+### 🛡️ [CyberShield-AI-WAF](https://github.com/Dipakshinde121/CyberShield-AI-WAF)
 
-`Python` `Flask` `AI/ML` `Web Security` `WAF`
+**AI-powered Web Application Firewall that inspects HTTP/HTTPS/API traffic and adapts to new threats instead of relying on static signatures.**
 
-**Focus:** application-layer protection, anomaly detection, request analysis and defensive security.
+`Python` `Machine Learning` `Flask` `Web Security` `WAF`
 
-### 🔐 ZTNA Shield
-**Zero Trust Network Access project focused on identity-aware and least-privilege access.**
+![Stars](https://img.shields.io/github/stars/Dipakshinde121/CyberShield-AI-WAF?style=flat-square&color=38BDF8&labelColor=111827) ![Last Commit](https://img.shields.io/github/last-commit/Dipakshinde121/CyberShield-AI-WAF?style=flat-square&color=38BDF8&labelColor=111827)
 
-`Zero Trust` `Network Security` `Authentication` `Access Control`
+**Approach:** hybrid detection — periodic retraining on new threat data plus real-time anomaly detection at the application layer.
 
-### 📚 QR-Based Library Access System
-**Smart library workflow using QR-based access and book transaction tracking.**
+---
+
+### 🔐 [ZTNA-Shield](https://github.com/Dipakshinde121/ZTNA-Shield-AI-Powered-Zero-Trust-Network-Access-Platform)
+
+**Zero Trust Network Access platform (TypeScript / React / Node.js) built around identity-aware, least-privilege access.**
+
+`TypeScript` `React` `Node.js` `Zero Trust` `Authentication`
+
+![Stars](https://img.shields.io/github/stars/Dipakshinde121/ZTNA-Shield-AI-Powered-Zero-Trust-Network-Access-Platform?style=flat-square&color=38BDF8&labelColor=111827) ![Last Commit](https://img.shields.io/github/last-commit/Dipakshinde121/ZTNA-Shield-AI-Powered-Zero-Trust-Network-Access-Platform?style=flat-square&color=38BDF8&labelColor=111827)
+
+**Currently:** running it through a full security audit — closing gaps in device-trust architecture, secrets handling, and API hardening.
+
+---
+
+### 📚 [QR-Based Library Access System](https://github.com/Dipakshinde121/QR-BASED-LIBRARY-ACCESSE)
+
+**Smart library workflow using QR-based access and automated book transaction tracking.**
 
 `Python` `QR` `Authentication` `Database` `Automation`
 
-### 👤 Face-Verified Access Lock System
-**Access-control project combining identity verification with secure system access.**
+![Stars](https://img.shields.io/github/stars/Dipakshinde121/QR-BASED-LIBRARY-ACCESSE?style=flat-square&color=38BDF8&labelColor=111827) ![Last Commit](https://img.shields.io/github/last-commit/Dipakshinde121/QR-BASED-LIBRARY-ACCESSE?style=flat-square&color=38BDF8&labelColor=111827)
 
-`Python` `Face Recognition` `Security` `Access Control`
+---
+
+### 👤 [Face-Verified Access Lock System](https://github.com/Dipakshinde121/-Face-Verified-Access-Lock-System)
+
+**Final-year project — a face-recognition PC lock tied to roll-number registration, built to stop lab-session impersonation.**
+
+`Python` `OpenCV` `face_recognition (dlib)` `SQLite`
+
+![Stars](https://img.shields.io/github/stars/Dipakshinde121/-Face-Verified-Access-Lock-System?style=flat-square&color=38BDF8&labelColor=111827) ![Last Commit](https://img.shields.io/github/last-commit/Dipakshinde121/-Face-Verified-Access-Lock-System?style=flat-square&color=38BDF8&labelColor=111827)
+
+**Hardening in progress:** liveness/anti-spoofing checks, encryption at rest for face encodings, TOTP-based MFA, real-time incident webhook alerts, and a FastAPI client-server layer for multi-PC lab deployment.
 
 <div align="center">
 
@@ -129,6 +151,18 @@
 
 ---
 
+## `> achievements.trophy`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dipakshinde121&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%"/>
+
+</div>
+
+> Live trophy cards generated from your real commits, stars, PRs, issues and repo count — these fill in and animate as your activity grows. Closest thing a README can legitimately show to the native "Achievements" badges.
+
+---
+
 ## `> contribution_matrix`
 
 <div align="center">
@@ -137,7 +171,7 @@
 
 </div>
 
-> **If the snake is not visible yet:** the repository needs the GitHub Actions workflow that generates the `output` branch. The setup is included below.
+> Animated snake eating your contribution graph. Needs the one-time GitHub Actions workflow (`snake.yml`, included separately) — once that's committed, this renders automatically and refreshes daily.
 
 ---
 
@@ -192,7 +226,7 @@ AI + Cybersecurity
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="#"> <!-- TODO: replace with your real LinkedIn profile URL -->
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
