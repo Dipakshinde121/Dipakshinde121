@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:0ea5e9&height=210&section=header&text=DIPAK%20SHINDE&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20Security%20%7C%20Python%20%7C%20Web%20Security&descAlignY=60&descSize=18" width="100%"/>
 
 <a href="https://github.com/Dipakshinde121">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=B.Tech+Cybersecurity+Student;Building+CyberShield-AI-WAF+-+ML+based+WAF;Hardening+ZTNA-Shield+-+Zero+Trust+Access;Securing+systems+one+commit+at+a+time+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=B.Tech+Cybersecurity+Student+at+TKIET;Building+CyberShield-AI-WAF+-+ML+based+WAF;Hardening+ZTNA-Shield+-+Zero+Trust+Access;Securing+systems+one+commit+at+a+time+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -156,11 +156,15 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dipakshinde121&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Scanning+repositories...;Calculating+trophy+tier...;Access+granted." alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dipakshinde121&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" width="100%"/>
 
 </div>
 
-> Live trophy cards generated from your real commits, stars, PRs, issues and repo count — these fill in and animate as your activity grows. Closest thing a README can legitimately show to the native "Achievements" badges.
+> 🏆 Bronze → Silver → Gold → Platinum — these tiers rank up on their own as commits, stars, PRs, issues and followers grow. No edits needed, it levels up with you.
 
 ---
 
