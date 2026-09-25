@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:0ea5e9&height=210&section=header&text=DIPAK%20SHINDE&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20Security%20%7C%20Python%20%7C%20Web%20Security&descAlignY=60&descSize=18" width="100%"/>
 
 <a href="https://github.com/Dipakshinde121">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=B.Tech+Cybersecurity+Student+at+TKIET;Building+CyberShield-AI-WAF+-+ML+based+WAF;Hardening+ZTNA-Shield+-+Zero+Trust+Access;Securing+systems+one+commit+at+a+time+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=B.Tech+Cybersecurity+Student;Building+CyberShield-AI-WAF+-+ML+based+WAF;Hardening+ZTNA-Shield+-+Zero+Trust+Access;Securing+systems+one+commit+at+a+time+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/>
