@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" >
 
 <!-- Animated header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:0ea5e9&height=210&section=header&text=DIPAK%20SHINDE&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20Security%20%7C%20Python%20%7C%20Web%20Security&descAlignY=60&descSize=18" width="100%" />
